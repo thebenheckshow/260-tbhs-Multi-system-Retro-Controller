@@ -1,0 +1,4 @@
+http://www.esp8266.com/wiki/doku.php?id=nodemcu-unofficial-faq
+http://www.lua.org/manual/5.1/manual.html
+http://internetofhomethings.com/homethings/?p=424
+http://www.esp8266.com/viewtopic.php?f=24&t=832

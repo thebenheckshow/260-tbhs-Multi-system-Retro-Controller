@@ -1,0 +1,10 @@
+
+
+http://randomnerdtutorials.com/how-to-make-two-esp8266-talk/
+
+http://randomnerdtutorials.com/flashing-nodemcu-firmware-on-the-esp8266-using-windows/
+
+http://randomnerdtutorials.com/getting-started-with-esp8266-wifi-transceiver-review/
+
+
+http://www.allaboutcircuits.com/projects/breadboard-and-program-an-esp-01-circuit-with-the-arduino-ide/

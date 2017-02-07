@@ -1,0 +1,21 @@
+REGISTER 0: (out to ESP)
+
+p1 - Right
+p2 - Down
+p3 - Up
+p4 - Left
+p5 - Select
+p6 - Start
+p7 - Left Shoulder
+p8 - NC LOST BIT
+
+REGISTER 1: (out to REGISTER 1)
+
+p1 - X
+p2 - Y
+p3 - A
+p4 - B
+p5 - Right Shoulder
+p6 - NC HIGH
+p7 - C
+p8 - Z
